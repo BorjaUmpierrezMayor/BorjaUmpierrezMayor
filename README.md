@@ -49,5 +49,3 @@
 <p align="center">
 ...
 </p>
-
-⭐️ From [BorjaUmpierrezMayor](https://github.com/BorjaUmpierrezMayor)
