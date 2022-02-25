@@ -11,7 +11,7 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![CS](https://img.shields.io/badge/-CS-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![CSharp](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
